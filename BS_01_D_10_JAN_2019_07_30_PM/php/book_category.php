@@ -50,12 +50,12 @@ echo "
 
 	<tr id='dash_table_row'>
 		<td id='dash_table_col'>
-			<a href='books_show.php?cat=tragiccomedy' class='dash_a'>Tragic Comedy</a>
+			<a href='books_show.php?cat=tragic comedy' class='dash_a'>Tragic Comedy</a>
 		</td></tr>
 		
 	<tr id='dash_table_row'>
 		<td id='dash_table_col'>
-			<a href='books_show.php?cat=youngfiction' class='dash_a'>Young Fiction</a>
+			<a href='books_show.php?cat=young fiction' class='dash_a'>Young Fiction</a>
 		</td></tr>
 			
 	<tr id='dash_table_row'>
